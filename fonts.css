@@ -1,0 +1,17 @@
+body{
+  background-color:567890
+
+}
+#h1{
+  font-family: 'Lobster', cursive;
+  /*The above sets the h1 to use the google font */
+}
+
+#h2{
+  font-family: 'Rye', cursive;
+    /*The above sets the h2 to use the google font */
+}
+#h3{
+  font-family: 'Sancreek', cursive;
+    /*The above sets the h3 to use the google font */
+}
